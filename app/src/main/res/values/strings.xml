@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">toDoApplication</string>
+    <string name="name_label">Nazwa</string>
+    <string name="name_hint">Wpisz nazwę zadania</string>
+    <string name="details_label">Szczegóły</string>
+    <string name="done_label">Wykonane</string>
+
+    <string name="date_label">Date</string>
+    <string name="ok">Zatwierdz</string>
 </resources>
